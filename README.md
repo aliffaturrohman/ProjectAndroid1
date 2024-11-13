@@ -50,6 +50,13 @@ A custom widget for displaying bullet points in a list format. Each item is prec
 
 ## Screenshot
 
+### About Page
+![About Page Screenshot](assets/images/about_page.jpg)
+
+### Drawer Page
+![Drawer Page Screenshot](assets/images/drawer_page.jpg)
+
+
 Add a screenshot of the app here to showcase the UI.
 
 ## Author
